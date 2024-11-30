@@ -18,8 +18,8 @@ Soy un desarrollador en formación con sólidos conocimientos en programación y
 Estoy buscando mi primera oportunidad laboral como programador para aplicar y expandir mis conocimientos, especialmente en desarrollo web, bases de datos y videojuegos. Siempre estoy aprendiendo y abierto a nuevos desafíos.  
 
 Puedes contactarme en:  
-📧 Email: [tu-email@example.com]  
-📱 LinkedIn: [tu-linkedin.com](https://linkedin.com/in/tu-usuario)
+📧 Email: diego.diaz.armas@gmail  
+📱 LinkedIn: www.linkedin.com/in/diego-diaz-3481252a7
 
 
 <!--
